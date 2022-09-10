@@ -1,0 +1,5 @@
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 6\dot net day 6\obj\Debug\netcoreapp3.1\dot net day 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 6\dot net day 6\obj\Debug\netcoreapp3.1\dot net day 6.AssemblyInfoInputs.cache
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 6\dot net day 6\obj\Debug\netcoreapp3.1\dot net day 6.AssemblyInfo.cs
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 6\dot net day 6\obj\Debug\netcoreapp3.1\dot net day 6.csproj.CoreCompileInputs.cache
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 6\dot net day 6\obj\Debug\netcoreapp3.1\dot net day 6.csproj.AssemblyReference.cache

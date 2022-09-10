@@ -1,0 +1,14 @@
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\bin\Debug\netcoreapp3.1\dot net day 4.exe
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\bin\Debug\netcoreapp3.1\dot net day 4.deps.json
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\bin\Debug\netcoreapp3.1\dot net day 4.runtimeconfig.json
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\bin\Debug\netcoreapp3.1\dot net day 4.runtimeconfig.dev.json
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\bin\Debug\netcoreapp3.1\dot net day 4.dll
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\bin\Debug\netcoreapp3.1\dot net day 4.pdb
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\obj\Debug\netcoreapp3.1\dot net day 4.csproj.AssemblyReference.cache
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\obj\Debug\netcoreapp3.1\dot net day 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\obj\Debug\netcoreapp3.1\dot net day 4.AssemblyInfoInputs.cache
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\obj\Debug\netcoreapp3.1\dot net day 4.AssemblyInfo.cs
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\obj\Debug\netcoreapp3.1\dot net day 4.csproj.CoreCompileInputs.cache
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\obj\Debug\netcoreapp3.1\dot net day 4.dll
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\obj\Debug\netcoreapp3.1\dot net day 4.pdb
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 4\dot net day 4\obj\Debug\netcoreapp3.1\dot net day 4.genruntimeconfig.cache

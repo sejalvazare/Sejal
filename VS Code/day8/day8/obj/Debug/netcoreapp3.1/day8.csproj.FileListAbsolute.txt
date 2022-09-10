@@ -1,0 +1,14 @@
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\bin\Debug\netcoreapp3.1\day8.exe
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\bin\Debug\netcoreapp3.1\day8.deps.json
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\bin\Debug\netcoreapp3.1\day8.runtimeconfig.json
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\bin\Debug\netcoreapp3.1\day8.runtimeconfig.dev.json
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\bin\Debug\netcoreapp3.1\day8.dll
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\bin\Debug\netcoreapp3.1\day8.pdb
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\obj\Debug\netcoreapp3.1\day8.csproj.AssemblyReference.cache
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\obj\Debug\netcoreapp3.1\day8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\obj\Debug\netcoreapp3.1\day8.AssemblyInfoInputs.cache
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\obj\Debug\netcoreapp3.1\day8.AssemblyInfo.cs
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\obj\Debug\netcoreapp3.1\day8.csproj.CoreCompileInputs.cache
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\obj\Debug\netcoreapp3.1\day8.dll
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\obj\Debug\netcoreapp3.1\day8.pdb
+C:\Users\sejal\Desktop\Github\VS Code\day8\day8\obj\Debug\netcoreapp3.1\day8.genruntimeconfig.cache

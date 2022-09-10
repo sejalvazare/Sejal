@@ -1,0 +1,14 @@
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\obj\Debug\netcoreapp3.1\dot net day 5.csproj.AssemblyReference.cache
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\obj\Debug\netcoreapp3.1\dot net day 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\obj\Debug\netcoreapp3.1\dot net day 5.AssemblyInfoInputs.cache
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\obj\Debug\netcoreapp3.1\dot net day 5.AssemblyInfo.cs
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\obj\Debug\netcoreapp3.1\dot net day 5.csproj.CoreCompileInputs.cache
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\bin\Debug\netcoreapp3.1\dot net day 5.exe
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\bin\Debug\netcoreapp3.1\dot net day 5.deps.json
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\bin\Debug\netcoreapp3.1\dot net day 5.runtimeconfig.json
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\bin\Debug\netcoreapp3.1\dot net day 5.runtimeconfig.dev.json
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\bin\Debug\netcoreapp3.1\dot net day 5.dll
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\bin\Debug\netcoreapp3.1\dot net day 5.pdb
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\obj\Debug\netcoreapp3.1\dot net day 5.dll
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\obj\Debug\netcoreapp3.1\dot net day 5.pdb
+C:\Users\sejal\Desktop\Github\VS Code\dot net day 5\dot net day 5\obj\Debug\netcoreapp3.1\dot net day 5.genruntimeconfig.cache

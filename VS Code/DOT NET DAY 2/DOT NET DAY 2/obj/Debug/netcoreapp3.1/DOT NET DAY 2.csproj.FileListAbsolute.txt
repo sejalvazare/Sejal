@@ -1,0 +1,14 @@
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\bin\Debug\netcoreapp3.1\DOT NET DAY 2.exe
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\bin\Debug\netcoreapp3.1\DOT NET DAY 2.deps.json
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\bin\Debug\netcoreapp3.1\DOT NET DAY 2.runtimeconfig.json
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\bin\Debug\netcoreapp3.1\DOT NET DAY 2.runtimeconfig.dev.json
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\bin\Debug\netcoreapp3.1\DOT NET DAY 2.dll
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\bin\Debug\netcoreapp3.1\DOT NET DAY 2.pdb
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\obj\Debug\netcoreapp3.1\DOT NET DAY 2.csproj.AssemblyReference.cache
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\obj\Debug\netcoreapp3.1\DOT NET DAY 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\obj\Debug\netcoreapp3.1\DOT NET DAY 2.AssemblyInfoInputs.cache
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\obj\Debug\netcoreapp3.1\DOT NET DAY 2.AssemblyInfo.cs
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\obj\Debug\netcoreapp3.1\DOT NET DAY 2.csproj.CoreCompileInputs.cache
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\obj\Debug\netcoreapp3.1\DOT NET DAY 2.dll
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\obj\Debug\netcoreapp3.1\DOT NET DAY 2.pdb
+C:\Users\sejal\Desktop\Github\VS Code\DOT NET DAY 2\DOT NET DAY 2\obj\Debug\netcoreapp3.1\DOT NET DAY 2.genruntimeconfig.cache
